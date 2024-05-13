@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt=Phoenix-MD height="300" src="https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg">
+    <img alt=Phoenix-MD height="300" src="https://cdn.discordapp.com/attachments/1155890698202132602/1239567553551007785/1XxG7lD.jpg?ex=664364be&is=6642133e&hm=2a0fa7ea0a5bd433b65f390fee0003563e8345f05b3cf43f31888d5b5a4a886f&">
    
 </a> 
     
